@@ -1,0 +1,15 @@
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\bin\Debug\netcoreapp3.1\Douglas01.exe
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\bin\Debug\netcoreapp3.1\Douglas01.deps.json
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\bin\Debug\netcoreapp3.1\Douglas01.runtimeconfig.json
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\bin\Debug\netcoreapp3.1\Douglas01.runtimeconfig.dev.json
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\bin\Debug\netcoreapp3.1\Douglas01.dll
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\bin\Debug\netcoreapp3.1\Douglas01.pdb
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\obj\Debug\netcoreapp3.1\Douglas01.csprojAssemblyReference.cache
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\obj\Debug\netcoreapp3.1\Douglas01.FrmLogin.resources
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\obj\Debug\netcoreapp3.1\Douglas01.csproj.GenerateResource.cache
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\obj\Debug\netcoreapp3.1\Douglas01.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\obj\Debug\netcoreapp3.1\Douglas01.AssemblyInfo.cs
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\obj\Debug\netcoreapp3.1\Douglas01.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\obj\Debug\netcoreapp3.1\Douglas01.dll
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\obj\Debug\netcoreapp3.1\Douglas01.pdb
+C:\Users\Vladimir\Documents\programacion_1\Douglas01\Douglas01\obj\Debug\netcoreapp3.1\Douglas01.genruntimeconfig.cache
